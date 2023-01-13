@@ -1,5 +1,5 @@
 # 2023-1-JIU-Python-camp 🎮
-This repository is used in JIU python camp for IT major students (2023. 1. 10~ 2023. 1. 12)
+This repository is about JIU python camp for IT major students (2023. 1. 10~ 2023. 1. 12)
 
 ## Day1. Python Review 🧨 (2023. 1. 10)
 For day1, We review the python and do some quizzes.
