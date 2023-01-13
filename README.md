@@ -9,4 +9,4 @@ For day2, We study how to make games using pygame.
 There are three games...
 
 ## Day3. Presentation 👯‍♀️ (2023. 1. 12)
-For day3, We make own game and have presentation time.
+For day3, We make our own game by team and have presentation time.
